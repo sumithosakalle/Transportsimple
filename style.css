@@ -1,3 +1,63 @@
+
+
 footer{
-    background-color: rgb(158, 210, 62);
+    background-color: rgb(220, 160, 224);
 }
+
+ .sumit{
+    color: rgb(216, 27, 27);
+ }
+ .leading-relaxed{
+    color: #100e0e;
+ }
+ .shubham{
+    text-align: center;
+    font-size:xx-large;
+ }
+ .Hosakalle{
+    text-align: center;
+    font-size: xx-large;
+ }
+ .sum{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      }
+      .suresh{
+        text-align: center;
+        background-color: rgb(0, 255, 94);
+        font-style: italic;
+      }
+      .akash1{
+        font: size 50 px;
+      }
+      .akash2 ,akash3,akash4{
+font-size: medium;
+      }
+      .akash5{
+        background-color: rgb(189, 114, 16);
+        color: aliceblue;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 10px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
+      .abhi{
+        background-color: rgb(189, 114, 16);
+        color: aliceblue;
+        padding: 10px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 10px;
+        margin: 2px 2px;
+        cursor: pointer;
+      }
+      .omkar{
+        background-color: rgb(212, 240, 128);
+      }
+    
